@@ -17,6 +17,7 @@ xdotool click 1 &
 # Wait five seconds and then make full screen
 sleep 5 &
 xdotool mousemove 1857 991 &
+exit
 
 
 
